@@ -6,3 +6,4 @@ Svelte's pretty cool though.
 
 ```npm run dev```
 
+LTP: Default Cross Origin block and default max message body size in the sveltekit node adapter can make for weird bugs. 
